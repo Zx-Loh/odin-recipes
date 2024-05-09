@@ -4,4 +4,6 @@ It consists of a main index page with links to other recipes
 
 After finishing this mini-project, it will demonstrate my basic HTML skill,
 such as:
--TBA
+- HTML text formatting
+- Implementing images
+- Links
