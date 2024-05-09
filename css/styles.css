@@ -1,0 +1,19 @@
+html {
+    background: black;
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+#title {
+    font-size: 58px;
+    font-weight: 700px;
+}
+
+.recipe-list {
+    display: inline-block;
+    background: black;
+}
+
