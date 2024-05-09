@@ -1,6 +1,13 @@
 html {
-    background: black;
+    background: rgb(134,80,0);
+    background: linear-gradient(0deg, rgba(134,80,0,1) 0%, rgba(255,159,57,1) 100%);
     color: white;
+    height: 100%;
+}
+
+body {
+    height: 100vh;
+    background-repeat: no-repeat;
 }
 
 .center {
@@ -14,6 +21,5 @@ html {
 
 .recipe-list {
     display: inline-block;
-    background: black;
 }
 
